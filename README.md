@@ -29,7 +29,7 @@ mobile preview:
 ![mobile-design](https://user-images.githubusercontent.com/48177682/127759376-57f42c05-5391-4be9-80d9-a82763e0b6fc.jpg)
 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/nobel10122025/stats-preview-card-component)
 - Live Site URL: [Add live site URL here](https://nobel10122025.github.io/stats-preview-card-component/index.html)
 
 ## My process
@@ -43,16 +43,10 @@ mobile preview:
 - Mobile-first workflow
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+I have learnt to use media queries with the flex boxes . this is an example snippet :
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+@media (max-width:375px) {
+  display :flex;
+  flex-direction:column-reverse;
 }
 ```
