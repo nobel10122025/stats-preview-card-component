@@ -29,8 +29,8 @@ mobile preview:
 ![mobile-design](https://user-images.githubusercontent.com/48177682/127759376-57f42c05-5391-4be9-80d9-a82763e0b6fc.jpg)
 
 
-- Solution URL: [Add solution URL here](https://github.com/nobel10122025/stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://nobel10122025.github.io/stats-preview-card-component/index.html)
+- Solution URL: [Click here](https://github.com/nobel10122025/stats-preview-card-component)
+- Live Site URL: [Click here](https://nobel10122025.github.io/stats-preview-card-component/index.html)
 
 ## My process
 
