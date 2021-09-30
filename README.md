@@ -41,6 +41,7 @@ mobile preview:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Vanila javascript
 
 ### What I learned
 I have learnt to use media queries with the flex boxes . this is an example snippet :
@@ -49,4 +50,8 @@ I have learnt to use media queries with the flex boxes . this is an example snip
   display :flex;
   flex-direction:column-reverse;
 }
+```
+```javascript
+var companies = setTimeout(setCompanyValue,100)
+cleatTimeout(companies)
 ```
